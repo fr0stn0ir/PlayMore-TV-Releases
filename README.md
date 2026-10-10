@@ -31,7 +31,7 @@ PlayMore TV is an all-in-one media center designed specifically for Smart TVs, F
 ## How to Install
 
 ### Supported Devices
-Works on any Android TV, Google TV, or Amazon Fire TV device running Android 7.0 or higher.
+Works on Android TV, Google TV, or Fire OS 7+ devices (Android 8.0 or higher).
 
 ### Installation Steps
 
